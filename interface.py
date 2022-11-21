@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 st.title("""
-form input data, by Arin Comel
+form input data, by Arin
 """)
 
 #Fractional Knapsack Problem
